@@ -57,10 +57,6 @@ h2 {
 	font-weight: bold;
 }
 
-#landing-main {
-	position: relative;
-}
-
 #photo {
 	width: 75% !important;
 	display: block !important;
@@ -76,6 +72,10 @@ h2 {
 		left: 83.5%;
 		top: 50%;
 		transform: translate(-50%, -50%);
+	}
+
+	#landing-main {
+		position: relative;
 	}
 
 }
