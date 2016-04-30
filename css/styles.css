@@ -62,9 +62,9 @@ h2 {
 }
 
 #photo {
-	width: 75%;
+	width: 75% !important;
 	text-align: center;
-	margin: 16px;
+	margin: 16px !important;
 }
 
 @media (min-width: 550px) {
