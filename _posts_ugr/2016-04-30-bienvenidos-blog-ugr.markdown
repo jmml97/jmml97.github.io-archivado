@@ -12,5 +12,3 @@ Como representante estudiantil, creo que es importante la transparencia en nuest
 Por este motivo nace este blog: contar a todos los estudiantes de la Universidad de Granada mi labor como uno de sus representantes.
 
 Así que a partir de ahora espero poder llenar este blog con toda mi actividad de representación estudiantil. ¡Nos vemos por aquí!
-
-- José María Martín Luque
