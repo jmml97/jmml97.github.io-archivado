@@ -1,0 +1,50 @@
+
+
+p {
+	font-family: Inconsolata ;
+	line-height: 1;
+	text-align: justify;
+}
+
+li {
+	font-family: Inconsolata;
+}
+
+a {
+	font-family: Inconsolata;
+	color: black;
+}
+span {
+	font-family: Inconsolata;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-weight: bold;
+	
+}
+
+h2 {
+	font-size: 3.0rem
+}
+
+#title{
+	line-height: 0.8;
+}
+
+#intro{
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+#description{
+	font-size: 1.5em;
+}
+
+#screenshot {
+	margin-right: 12px;
+}
+
+#divider {
+	border: 0px !important;
+}
