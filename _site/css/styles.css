@@ -62,7 +62,8 @@ h2 {
 }
 
 .site-title {
-	font-family: Helvetica;
+	font-family: Inconsolata;
+	font-weight: bold !important;
 }
 
 .page-heading {
