@@ -57,17 +57,35 @@ h2 {
 	font-weight: bold;
 }
 
-#landing-main {
-	position: relative;
+#photo {
+	width: 50% !important;
+	margin: auto !important;
 }
 
-#photo {
-	max-width: 25%;
-	position: absolute;
-	left: 83.5%;
-	top: 50%;
-	transform: translate(-50%, -50%);
+#landing-main {
+	display: flex;
 }
+
+
+
+@media (min-width: 550px) {
+
+	#landing-main {
+		position: relative;
+	}
+
+	#photo {
+		max-width: 25%;
+		position: absolute;
+		left: 87.5%;
+		top: 50%;
+		transform: translate(-50%, -50%);
+	}
+
+
+
+}
+
 
 .container {
 	width: 100% !important;
