@@ -63,8 +63,8 @@ h2 {
 
 #photo {
 	width: 75% !important;
-	display: block;
-	margin: auto;
+	display: block !important;
+	margin: auto !important;
 	margin: 16px !important;
 }
 
