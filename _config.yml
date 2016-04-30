@@ -21,4 +21,5 @@ github_username:  jekyll
 markdown: kramdown
 
 collections:
-- posts_ugr
+  posts_ugr:
+    output: true
