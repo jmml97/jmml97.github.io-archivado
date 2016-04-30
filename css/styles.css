@@ -62,7 +62,7 @@ h2 {
 }
 
 #photo {
-	width: 100px;
+	width: 100%;
 }
 
 @media (min-width: 550px) {
