@@ -63,7 +63,7 @@ h2 {
 
 #photo {
 	width: 75% !important;
-	text-align: center;
+	text-align: center !important;
 	margin: 16px !important;
 }
 
