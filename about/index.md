@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About / Sobre mí
+title: About / Sobre mí.
 permalink: /about/
 ---
 
 My name is José María Martín Luque. I was born in Granada in 1997. During the first years of my life, I lived in many places, until my parents decided to settle down in Málaga in 2002. Now, I've came back to Granada, where I'm studying a Double Degree of Computer Science and Mathematics.
 
-I've been interested in computers since I was a child. In the last few years, an interest in politics has also surged on me. Right now I take part on university politics, holding various positions in the Students Union of my School and on the Students Union of the University of Granada.
+I've been interested in computers since I was a child. In the last few years, an interest in politics has also surged on me. Right now I'm taking part on university politics, holding several positions in the Students Union of my School and on the Students Union of the University of Granada.
 
 ---
 
