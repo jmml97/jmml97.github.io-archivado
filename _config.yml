@@ -7,7 +7,7 @@
 
 # Site settings
 title: José María Martín Luque
-email: hi@martinluque.me
+email: 
 description: Página web personal de José María Martín Luque.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
