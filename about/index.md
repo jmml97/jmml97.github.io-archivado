@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About / Sobre mí.
+title: About / Sobre mí
 permalink: /about/
 ---
 
