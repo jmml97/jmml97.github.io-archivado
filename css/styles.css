@@ -119,6 +119,7 @@ h2 {
 
 .post-title {
 	line-height: 1.5em !important;
+	font-weight: bold;
 }
 
 .post-link {
@@ -129,4 +130,8 @@ h2 {
 	margin-top: 2em;
 	margin-bottom: 2em;
 	line-height: 1.8em;
+}
+
+.post-content h2 {
+	font-weight: bold;
 }
