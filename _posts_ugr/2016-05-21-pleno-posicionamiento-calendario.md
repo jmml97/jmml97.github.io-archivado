@@ -7,7 +7,7 @@ categories: ugr
 
 El pasado día 16 de mayo se celebró en la Facultad de Medicina de la Universidad de Granada un pleno extraordinario de la DGE cuyo punto principal del orden del día era el posicionamiento sobre el nuevo calendario académico.
 
-El señor Coordinador de Asuntos Académicos, Salvador Robles, nos leyó un informe elaborado por dicha Comisión en el que se detallan los aspectos clave del cambio de calendario. Dicho informe se puede connsultar [aquí](https://www.dropbox.com/s/0zeytvwylvwjyzu/informe.pdf?dl=1). No está completo, pues desde Delegación me han pedido que no difunda unos datos de la Universidad de Jaén que no están seguros si pueden divulgar. De todas formas, a continuación os expongo las partes más importantes del informe.
+El señor Coordinador de Asuntos Académicos, Salvador Robles, nos leyó un informe elaborado por dicha Comisión en el que se detallan los aspectos clave del cambio de calendario. Dicho informe se puede consultar [aquí](https://www.dropbox.com/s/0zeytvwylvwjyzu/informe.pdf?dl=1). No está completo, pues desde Delegación me han pedido que no difunda unos datos de la Universidad de Jaén que no están seguros si pueden divulgar. De todas formas, a continuación os expongo las partes más importantes del informe.
 
 ## Fechas clave
 
