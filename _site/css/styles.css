@@ -20,15 +20,15 @@
 }
 
 .page-link {
-	font-family: Karla !important;
+	font-family: Lato !important;
 }
 
 .post-link {
-	font-family: Karla !important;
+	font-family: Lato !important;
 }
 
 .post-title {
-	font-family: Karla !important;
+	font-family: Lato !important;
 }
 
 .post-content p {
@@ -37,20 +37,20 @@
 }
 
 p {
-	font-family: 'Karla', sans-serif !important;
-	text-align: justify;
+	font-family: 'Lato', sans-serif !important;
+	text-align: left;
 }
 
 li {
-	font-family: 'Karla', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 a {
-	font-family: 'Karla', sans-serif;
+	font-family: 'Lato', sans-serif;
 	color: black;
 }
 span {
-	font-family: 'Karla', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 h1 {
@@ -69,7 +69,7 @@ h2 {
 
 #subtitle {
 	font-weight: bold;
-	font-family: Karla;
+	font-family: Lato;
 	text-align: left;
 }
 
