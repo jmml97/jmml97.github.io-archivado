@@ -27,6 +27,7 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    padding-top: 25px;
 
     .menu-icon {
         display: none;
@@ -44,12 +45,14 @@
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
+        top: 34px;
+        right: $spacing-unit / 2 + 8;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
+
+        padding-top: 0px;
 
         .menu-icon {
             display: block;

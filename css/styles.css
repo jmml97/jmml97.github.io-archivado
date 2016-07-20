@@ -1,24 +1,60 @@
 
+.index-page-content {
+	padding: 5% !important;
+}
+
+.page-content {
+	padding: 8px;
+}
+
+.site-header {
+	border: 0 !important;
+
+}
+
+.site-title {
+	font-family: Montserrat !important;
+	padding-top: 25px;
+	padding-left: 8px;
+	color: black !important;
+}
+
+.page-link {
+	font-family: Karla !important;
+}
+
+.post-link {
+	font-family: Karla !important;
+}
+
+.post-title {
+	font-family: Karla !important;
+}
+
+.post-content p {
+	margin-top: 1em !important;
+	margin-bottom: 1em !important;
+}
 
 p {
-	font-family: Inconsolata !important;
+	font-family: 'Karla', sans-serif !important;
 	text-align: justify;
 }
 
 li {
-	font-family: Inconsolata;
+	font-family: 'Karla', sans-serif;
 }
 
 a {
-	font-family: Inconsolata;
+	font-family: 'Karla', sans-serif;
 	color: black;
 }
 span {
-	font-family: Inconsolata;
+	font-family: 'Karla', sans-serif;
 }
 
 h1 {
-	font-family: Helvetica !important;
+	font-family: Montserrat !important;
 	font-weight: bold;
 }
 
@@ -27,8 +63,14 @@ h2 {
 }
 
 #title{
-	line-height: 0.8;
+	text-align: left;
 	font-weight: bold;
+}
+
+#subtitle {
+	font-weight: bold;
+	font-family: Karla;
+	text-align: left;
 }
 
 #intro{
@@ -79,6 +121,15 @@ h2 {
 	line-height: 2em;
 }
 
+#section-link {
+	margin-right: 5%;
+	font-size: 1.5em;
+}
+
+#emoji {
+	margin-top: 10%;
+}
+
 
 
 @media (min-width: 550px) {
@@ -98,7 +149,6 @@ h2 {
 		top: 50%;
 		transform: translate(-50%, -50%);
 	}
-
 
 
 }
