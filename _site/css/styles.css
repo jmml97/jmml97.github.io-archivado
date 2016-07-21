@@ -20,15 +20,15 @@
 }
 
 .page-link {
-	font-family: Lato !important;
+	font-family: Cabin !important;
 }
 
 .post-link {
-	font-family: Lato !important;
+	font-family: Cabin !important;
 }
 
 .post-title {
-	font-family: Lato !important;
+	font-family: Cabin !important;
 }
 
 .post-content p {
@@ -37,20 +37,20 @@
 }
 
 p {
-	font-family: 'Lato', sans-serif !important;
+	font-family: 'Cabin', sans-serif !important;
 	text-align: left;
 }
 
 li {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Cabin', sans-serif;
 }
 
 a {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Cabin', sans-serif;
 	color: black;
 }
 span {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Cabin', sans-serif;
 }
 
 h1 {
@@ -69,7 +69,7 @@ h2 {
 
 #subtitle {
 	font-weight: bold;
-	font-family: Lato;
+	font-family: Cabin;
 	text-align: left;
 }
 
@@ -159,7 +159,7 @@ h2 {
 }
 
 .site-title {
-	font-family: Inconsolata;
+	font-family: Cabin;
 	font-weight: bold !important;
 }
 
