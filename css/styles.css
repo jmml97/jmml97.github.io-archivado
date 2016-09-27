@@ -1,4 +1,3 @@
-
 .index-page-content {
 	padding: 5% !important;
 }
@@ -62,7 +61,7 @@ h2 {
 	font-size: 3.0rem
 }
 
-#title{
+#title {
 	text-align: left;
 	font-weight: bold;
 }
@@ -73,12 +72,12 @@ h2 {
 	text-align: left;
 }
 
-#intro{
+#intro {
 	margin-top: 10%;
 	margin-bottom: 10%;
 }
 
-#description{
+#description {
 	font-size: 1.5em;
 }
 
