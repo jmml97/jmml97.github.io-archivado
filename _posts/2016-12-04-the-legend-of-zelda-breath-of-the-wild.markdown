@@ -1,6 +1,6 @@
 ---
 title: 'The Legend of Zelda: Breath of the Wild'
-date: 2016-12-04 15:44:00 Z
+date: 2016-12-04 16:44:00 +01:00
 tags:
 - nintendo
 ---
