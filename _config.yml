@@ -1,6 +1,6 @@
 ---
 title: jmml
-timezone: UTC
+timezone: Europe/Madrid
 collections:
   posts:
     title: Posts
@@ -13,7 +13,7 @@ collections:
     output: true
 email: 
 description: Página web personal de José María Martín Luque.
-baseurl: ''
+baseurl: 
 url: http://yourdomain.com
 twitter_username: jmml97
 github_username: jmml97
