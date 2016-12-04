@@ -6,6 +6,6 @@ tags:
 layout: post
 ---
 
-<iframe src="https://www.youtube.com/embed/-lbn5Fs_92Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-lbn5Fs_92Y" frameborder="0" allowfullscreen></iframe>
 
 Tiene una pinta increíble.
