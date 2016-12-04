@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About / Sobre mí
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 My name is José María Martín Luque. I was born in Granada in 1997. During the first years of my life, I lived in many places, until my parents decided to settle down in Málaga in 2002. Now, I've came back to Granada, where I'm studying a Double Degree of Computer Science and Mathematics.

@@ -1,8 +1,10 @@
 ---
+title: 'Pleno extraordinario de la Delegación General de Estudiantes: posicionamiento
+  sobre el calendario académico.'
+date: 2016-05-21 11:00:00 Z
+categories:
+- ugr
 layout: post
-title:  "Pleno extraordinario de la Delegación General de Estudiantes: posicionamiento sobre el calendario académico."
-date:   2016-05-21 13:00:00 +0200
-categories: ugr
 ---
 
 El pasado día 16 de mayo se celebró en la Facultad de Medicina de la Universidad de Granada un pleno extraordinario de la DGE cuyo punto principal del orden del día era el posicionamiento sobre el nuevo calendario académico.
