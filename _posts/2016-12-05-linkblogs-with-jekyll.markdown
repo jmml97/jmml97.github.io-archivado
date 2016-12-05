@@ -8,4 +8,4 @@ tags:
 external-url: http://mikebuss.com/2015/01/27/linklogs-with-jekyll/
 ---
 
-Me he basado en este artículo para configurar los posts tipo *linkblog* (como este mismo). El enlace del título es la dirección a la que hace referencia el post. Al lado hay un ⁕ que sirve para acceder al enlace permanente del post en el blog.
+Me he basado en este artículo para configurar los posts tipo *linkblog* (como este mismo). El enlace del título es la dirección a la que hace referencia el post. He hecho alguna modificación como por ejemplo que al lado del título haya un ⁕ que sirve para acceder al enlace permanente del post en el blog.
