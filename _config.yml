@@ -22,9 +22,8 @@ markdown: kramdown
 defaults:
   -
     scope:
-        path: ""
-        type: "posts"
-      values:
-        layout: "post"
-        author: "José María"
-  -
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "José María"
