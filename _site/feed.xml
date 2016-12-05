@@ -5,18 +5,35 @@
     <description>Página web personal de José María Martín Luque.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 17:15:34 +0100</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 17:15:34 +0100</lastBuildDate>
+    <pubDate>Mon, 05 Dec 2016 15:58:19 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2016 15:58:19 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>The Legend of Zelda: Breath of the Wild</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-lbn5Fs_92Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Tiene una pinta increíble.&lt;/p&gt;
+        <title>$8 Pasta Vs. $100 Pasta</title>
+        <description>&lt;p&gt;Aunque me gustaría probar la pasta de 100$ estoy seguro de que me quedo con la de menos de 20$. He de decir que la del primer restaurante tiene una pinta exquisita.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Dec 2016 14:31:00 +0100</pubDate>
+        
+          <link href="https://www.youtube.com/watch?v=NHiqsrYkcuk"/>
+        
+        <guid isPermaLink="true">http://yourdomain.com/2016/12/05/8-dollars-pasta-vs-100-dollars-pasta.html</guid>
+        
+        <category>youtube</category>
+        
+        <category>cocina</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nuevo tráiler de The Legend of Zelda: Breath of the Wild</title>
+        <description>&lt;p&gt;Tiene una pinta increíble y tengo muchas ganas de jugarlo. No sé si en Switch (porque no sé si la compraré de salida) o en la Wii U, que está cogiendo polvo.&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Dec 2016 16:44:00 +0100</pubDate>
-        <link>http://yourdomain.com/2016/12/04/the-legend-of-zelda-breath-of-the-wild.html</link>
+        
+          <link href="https://www.youtube.com/watch?v=-lbn5Fs_92Y"/>
+        
         <guid isPermaLink="true">http://yourdomain.com/2016/12/04/the-legend-of-zelda-breath-of-the-wild.html</guid>
         
         <category>nintendo</category>
@@ -31,7 +48,9 @@
 &lt;p&gt;Leyendo en Internet, aprendí que también puedes añadir un &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt; al final de tu dirección y a continuación añadir lo que quieras. Por ejemplo, puedes crear &lt;code class=&quot;highlighter-rouge&quot;&gt;micorreo+spotify@gmail.com&lt;/code&gt; para tu cuenta de Spotify. El efecto es similar a lo anterior: todo lo enviado a estas direcciones aparecerá en tu bandeja de entrada. Así, puedes crear un filtro que se encargue de manejar el correo enviado a esa dirección.&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jul 2016 22:38:24 +0200</pubDate>
-        <link>http://yourdomain.com/2016/07/20/direcciones-desechables-gmail.html</link>
+        
+          <link href="http://yourdomain.com/2016/07/20/direcciones-desechables-gmail.html"/>
+        
         <guid isPermaLink="true">http://yourdomain.com/2016/07/20/direcciones-desechables-gmail.html</guid>
         
         

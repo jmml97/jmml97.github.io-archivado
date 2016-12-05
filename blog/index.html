@@ -17,7 +17,7 @@ layout: default
           {% if post.external-url %}
             <a class="post-link" href="{{ post.external-url }}">
               {{ post.title }}
-            </a> <a class="external-link-post" href="{{ post.url | prepend: site.baseurl }}">‣</a>
+            </a> <a class="permalink" href="{{ post.url | prepend: site.baseurl }}">⁕</a>
           {% else %}
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
               {{ post.title }}

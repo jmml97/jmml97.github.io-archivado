@@ -8,4 +8,4 @@ layout: post
 external-url: https://www.youtube.com/watch?v=NHiqsrYkcuk
 ---
 
-Aunque me gustaría probar la pasta de 100$ estoy seguro de que me quedo con la de <20$. La del primer restaurante tiene una pinta exquisita.
+Aunque me gustaría probar la pasta de 100$ estoy seguro de que me quedo con la de menos de 20$. He de decir que la del primer restaurante tiene una pinta exquisita.

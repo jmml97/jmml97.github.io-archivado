@@ -1,5 +1,5 @@
 ---
-title: 'Nuevo tráielr de The Legend of Zelda: Breath of the Wild'
+title: 'Nuevo tráiler de The Legend of Zelda: Breath of the Wild'
 date: 2016-12-04 16:44:00 +01:00
 tags:
 - nintendo

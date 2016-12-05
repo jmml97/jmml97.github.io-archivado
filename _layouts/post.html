@@ -6,10 +6,10 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">
-      {% if post.external-url %}
-        <a href="{{ post.external-url }}">
+      {% if page.external-url %}
+        <a href="{{ page.external-url }}">
           {{ page.title }}
-        </a> <a class="external-link-post" href="{{ post.url | prepend: site.baseurl }}">‣</a>
+        </a>
       {% else %}
         {{ page.title }}
       {% endif %}
