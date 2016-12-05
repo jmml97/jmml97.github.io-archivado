@@ -21,10 +21,10 @@ github_username: jmml97
 markdown: kramdown
 defaults:
   -
-  scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "José María"
+    scope:
+        path: ""
+        type: "posts"
+      values:
+        layout: "post"
+        author: "José María"
   -
