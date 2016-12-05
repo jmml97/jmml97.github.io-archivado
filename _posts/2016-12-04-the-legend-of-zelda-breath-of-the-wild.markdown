@@ -6,6 +6,14 @@ tags:
 layout: post
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-lbn5Fs_92Y" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;"><iframe style="position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;" src="https://www.youtube.com/embed/-lbn5Fs_92Y" frameborder="0" allowfullscreen></iframe></div>
 
-Tiene una pinta increíble.
+Tiene una pinta increíble y tengo muchas ganas de jugarlo. No sé si en Switch (porque no sé si la compraré de salida) o en la Wii U, que está cogiendo polvo.
