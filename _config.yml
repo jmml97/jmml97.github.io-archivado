@@ -12,10 +12,17 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: 
+email:
 description: Página web personal de José María Martín Luque.
-baseurl: 
+baseurl:
 url: http://yourdomain.com
 twitter_username: jmml97
 github_username: jmml97
 markdown: kramdown
+defaults:
+  scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "José María"
