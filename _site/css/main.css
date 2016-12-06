@@ -79,7 +79,7 @@ a {
  */
 blockquote {
   color: #828282;
-  border-left: 4px solid #e8e8e8;
+  border-left: 4px solid #ebeaea;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -93,9 +93,8 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
-  background-color: #eef; }
+  border: 1px solid #ebeaea;
+  background-color: #faf9f9; }
 
 code {
   padding: 1px 5px; }
@@ -149,7 +148,7 @@ pre {
  */
 .site-header {
   border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid #ebeaea;
   min-height: 56px;
   position: relative; }
 
@@ -179,7 +178,7 @@ pre {
       top: 34px;
       right: 23px;
       background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
+      border: 1px solid #ebeaea;
       border-radius: 5px;
       text-align: right;
       padding-top: 0px; }
@@ -213,7 +212,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #ebeaea;
   padding: 30px 0; }
 
 .footer-heading {
