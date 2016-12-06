@@ -99,10 +99,19 @@ span {
 	font-family: 'Libre Franklin', sans-serif;
 }
 
+
 h1 {
 	font-family: 'Libre Franklin' !important;
 	font-weight: bold;
 	line-height: .8em !important;
+}
+
+@media (max-width: 650px) {
+
+	h1 {
+		line-height: 1.2em !important;
+	}
+
 }
 
 h2 {
