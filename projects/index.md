@@ -1,7 +1,7 @@
 ---
 title: Projects
 permalink: "/projects/"
-layout: default
+layout: page
 ---
 
-# Work in progress.
+Work in progress.

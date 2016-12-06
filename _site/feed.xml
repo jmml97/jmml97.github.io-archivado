@@ -5,9 +5,47 @@
     <description>Página web personal de José María Martín Luque.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Dec 2016 17:59:48 +0100</pubDate>
-    <lastBuildDate>Mon, 05 Dec 2016 17:59:48 +0100</lastBuildDate>
+    <pubDate>Tue, 06 Dec 2016 13:33:05 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2016 13:33:05 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Why I Will Not Cast My Electoral Vote for Donald Trump</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Mr. Trump shows us again and again that he does not meet these standards. Given his own public statements, it isn’t clear how the Electoral College can ignore these issues, and so it should reject him.&lt;/p&gt;
+
+  &lt;p&gt;The election of the next president is not yet a done deal. Electors of conscience can still do the right thing for the good of the country. Presidential electors have the legal right and a constitutional duty to vote their conscience.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Un elector republicano del Colegio Electoral que se niega a votar a Trump. La pena es que tampoco tenga intención de votar a Hillary Clinton.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Dec 2016 23:53:00 +0100</pubDate>
+        
+          <link href="http://www.nytimes.com/2016/12/05/opinion/why-i-will-not-cast-my-electoral-vote-for-donald-trump.html?smid=tw-nytopinion&smtyp=cur"/>
+        
+        <guid isPermaLink="true">http://yourdomain.com/2016/12/05/why-i-will-not-cast-my-electoral-vote-for-donald-trump.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Linkblogs with Jekyll</title>
+        <description>&lt;p&gt;Me he basado en este artículo para configurar los posts tipo &lt;em&gt;linkblog&lt;/em&gt; (como este mismo). El enlace del título es la dirección a la que hace referencia el post. He hecho alguna modificación como por ejemplo que al lado del título haya un ⁕ que sirve para acceder al enlace permanente del post en el blog.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Dec 2016 18:10:00 +0100</pubDate>
+        
+          <link href="http://mikebuss.com/2015/01/27/linklogs-with-jekyll/"/>
+        
+        <guid isPermaLink="true">http://yourdomain.com/2016/12/05/linkblogs-with-jekyll.html</guid>
+        
+        <category>meta</category>
+        
+        <category>jekyll</category>
+        
+        <category>linkblogs</category>
+        
+        
+      </item>
     
       <item>
         <title>$8 Pasta Vs. $100 Pasta</title>
@@ -27,7 +65,7 @@
       </item>
     
       <item>
-        <title>Nuevo tráiler de The Legend of Zelda: Breath of the Wild</title>
+        <title>The Legend of Zelda: Breath of the Wild - Vida en las ruinas</title>
         <description>&lt;p&gt;Tiene una pinta increíble y tengo muchas ganas de jugarlo. No sé si en Switch (porque no sé si la compraré de salida) o en la Wii U, que está cogiendo polvo.&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Dec 2016 16:44:00 +0100</pubDate>

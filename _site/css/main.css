@@ -112,16 +112,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(650px - (30px * 2));
+  max-width: calc(650px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
+      max-width: -webkit-calc(650px - (30px));
+      max-width: calc(650px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -157,7 +157,6 @@ pre {
   font-size: 26px;
   font-weight: 300;
   line-height: 56px;
-  letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
@@ -292,9 +291,7 @@ pre {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 42px;
-  letter-spacing: -1px;
-  line-height: 1; }
+  font-size: 42px; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
