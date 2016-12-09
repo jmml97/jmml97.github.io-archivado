@@ -16,9 +16,9 @@ defaults:
   values:
     layout: post
     author: José María
-email:
+email: 
 description: Página web personal de José María Martín Luque.
-baseurl:
+baseurl: 
 url: http://josemaria.ml
 twitter_username: jmml97
 github_username: jmml97
