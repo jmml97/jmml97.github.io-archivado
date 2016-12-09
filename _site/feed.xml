@@ -1,98 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>jmml</title>
-    <description>Página web personal de José María Martín Luque.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Dec 2016 13:51:37 +0100</pubDate>
-    <lastBuildDate>Tue, 06 Dec 2016 13:51:37 +0100</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
-    
-      <item>
-        <title>Why I Will Not Cast My Electoral Vote for Donald Trump</title>
-        <description>&lt;blockquote&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>jmml</title>
+ <link href="http://josemaria.ml/atom.xml" rel="self"/>
+ <link href="http://josemaria.ml/"/>
+ <updated>2016-12-09T14:10:21+01:00</updated>
+ <id>http://josemaria.ml</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>For two years, criminals stole sensitive information using malware hidden in individual pixels of ad banners</title>
+   
+     <link href="https://boingboing.net/2016/12/07/for-two-years-criminals-stole.html"/>
+   
+   <updated>2016-12-09T13:02:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/09/for-two-years-criminals-stole-sensitive-information-using-malware-hidden-in-individual-pixels-of-ad-banners</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;To do this, they made tiny alterations to the transparency values of the individual pixels of the accompanying banner ads, which were in the PNG format, which allows for pixel-level gradations in transparency. The javascript sent by the attackers would run through the pixels in the banners, looking for ones with the telltale alterations, then it would turn that tweaked transparency value into a character. By stringing all these characters together, the javascript would assemble a new program, which it would then execute on the target’s computer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Es un método bastante ingenioso, la verdad. Por lo visto los detectores de malware de las empresas de publicidad fueron incapaces de detectarlo hasta hace relativamente poco.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Finder’s GUI tax can be very expensive</title>
+   
+     <link href="http://robservatory.com/the-finders-gui-tax-can-be-very-expensive/"/>
+   
+   <updated>2016-12-09T11:24:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/09/the-finders-gui-tax-can-be-very-expensive</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;24 .gz archive files (on a solid state drive), and the real line in the output shows exactly how long it took to expand them all: 0.013 seconds. By comparison, I made a screen recording (with an onscreen stopwatch for timing) of Finder expanding the same 24 files; it took 12.8 seconds for all the dialog dancing to end.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Datawatch: support for strong leaders on the rise</title>
+   
+     <link href="https://www.ft.com/content/922a0c32-b869-11e6-ba85-95d1533d9a62"/>
+   
+   <updated>2016-12-08T20:15:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/08/datawatch-support-for-strong-leaders-on-the-rise</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;% rating very good or good to have a strong leader who does not have to bother with parliament or elections.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;España sube del 25% al 40%. Preocupante la tendencia general.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Five Fresh Headline & Body Text Pairings on Google Fonts</title>
+   
+     <link href="https://www.typewolf.com/blog/google-fonts-combinations"/>
+   
+   <updated>2016-12-06T17:16:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/06/five-fresh-headline-and-body-text-pairings-on-google-fonts</id>
+   <content type="html">&lt;p&gt;Typewolf es una web cuyo objetivo es “ser el mejor recurso para todo lo relacionado con la tipografía en la web” y es una de las webs que consulto cuando estoy diseñando algo. Tiene un montón de ejemplos de tipografías y recomendaciones de uso. Recientemente publicaron este artículo en el que se destacan algunas de las mejores fuentes gratuitas que hay en Google Fonts. Si entráis comprobaréis que una de esas combinaciones es la que uso en la web actualmente (digamos que no me he comido mucho el coco).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scientists agree: Coffee naps are better than coffee or naps alone</title>
+   
+     <link href="http://www.vox.com/2014/8/28/6074177/coffee-naps-caffeine-science?utm_campaign=vox.social&utm_medium=social&utm_content=voxdotcom&utm_source=twitter"/>
+   
+   <updated>2016-12-06T13:58:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/06/scientists-agree-coffee-naps-are-better-than-coffee-or-naps-alone</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;You have to understand how caffeine affects you. After it’s absorbed through your small intestine and passes into your bloodstream, it crosses into your brain. There, it fits into receptors that are normally filled by a similarly shaped molecule called adenosine.&lt;/p&gt;
+
+  &lt;p&gt;Adenosine is a byproduct of brain activity, and when it accumulates at high enough levels, it plugs into these receptors and makes you feel tired. But with the caffeine blocking the receptors, it’s unable to do so.&lt;/p&gt;
+
+  &lt;p&gt;Now, caffeine doesn’t block every single adenosine receptor — it competes with adenosine for these spots, filling some, but not others.&lt;/p&gt;
+
+  &lt;p&gt;But here’s the trick of the coffee nap: sleeping naturally clears adenosine from the brain (…) It takes around 20 minutes for the caffeine to get through your gastrointestinal tract and bloodstream anyway.&lt;/p&gt;
+
+  &lt;p&gt;So if you nap for those 20 minutes, you’ll reduce your levels of adenosine just in time for the caffeine to kick in.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Es un artículo de 2015 y aunque algo me sonaba la verdad es que no lo había leído.  Yo he probado en alguna ocasión a dormir alrededor de 20 minutos para descansar sin entrar en sueño profundo, pero nunca he probado a tomar café antes. Entendiendo como funciona la cafeína uno ve lógico este método y ahora tengo bastante curiosidad por probarlo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why I Will Not Cast My Electoral Vote for Donald Trump</title>
+   
+     <link href="http://www.nytimes.com/2016/12/05/opinion/why-i-will-not-cast-my-electoral-vote-for-donald-trump.html?smid=tw-nytopinion&smtyp=cur"/>
+   
+   <updated>2016-12-05T23:53:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/05/why-i-will-not-cast-my-electoral-vote-for-donald-trump</id>
+   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Mr. Trump shows us again and again that he does not meet these standards. Given his own public statements, it isn’t clear how the Electoral College can ignore these issues, and so it should reject him.&lt;/p&gt;
 
   &lt;p&gt;The election of the next president is not yet a done deal. Electors of conscience can still do the right thing for the good of the country. Presidential electors have the legal right and a constitutional duty to vote their conscience.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Un elector republicano del Colegio Electoral que se niega a votar a Trump. La pena es que tampoco tenga intención de votar a Hillary Clinton.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Dec 2016 23:53:00 +0100</pubDate>
-        
-          <link href="http://www.nytimes.com/2016/12/05/opinion/why-i-will-not-cast-my-electoral-vote-for-donald-trump.html?smid=tw-nytopinion&smtyp=cur"/>
-        
-        <guid isPermaLink="true">http://yourdomain.com/2016/12/05/why-i-will-not-cast-my-electoral-vote-for-donald-trump.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Linkblogs with Jekyll</title>
-        <description>&lt;p&gt;Me he basado en este artículo para configurar los posts tipo &lt;em&gt;linkblog&lt;/em&gt; (como este mismo). El enlace del título es la dirección a la que hace referencia el post. He hecho alguna modificación como por ejemplo que al lado del título haya un ⁕ que sirve para acceder al enlace permanente del post en el blog.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Dec 2016 18:10:00 +0100</pubDate>
-        
-          <link href="http://mikebuss.com/2015/01/27/linklogs-with-jekyll/"/>
-        
-        <guid isPermaLink="true">http://yourdomain.com/2016/12/05/linkblogs-with-jekyll.html</guid>
-        
-        <category>meta</category>
-        
-        <category>jekyll</category>
-        
-        <category>linkblogs</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>$8 Pasta Vs. $100 Pasta</title>
-        <description>&lt;p&gt;Aunque me gustaría probar la pasta de 100$ estoy seguro de que me quedo con la de menos de 20$. He de decir que la del primer restaurante tiene una pinta exquisita.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Dec 2016 14:31:00 +0100</pubDate>
-        
-          <link href="https://www.youtube.com/watch?v=NHiqsrYkcuk"/>
-        
-        <guid isPermaLink="true">http://yourdomain.com/2016/12/05/8-dollars-pasta-vs-100-dollars-pasta.html</guid>
-        
-        <category>youtube</category>
-        
-        <category>cocina</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Legend of Zelda: Breath of the Wild - Vida en las ruinas</title>
-        <description>&lt;p&gt;Tiene una pinta increíble y tengo muchas ganas de jugarlo. No sé si en Switch (porque no sé si la compraré de salida) o en la Wii U, que está cogiendo polvo.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 04 Dec 2016 16:44:00 +0100</pubDate>
-        
-          <link href="https://www.youtube.com/watch?v=-lbn5Fs_92Y"/>
-        
-        <guid isPermaLink="true">http://yourdomain.com/2016/12/04/the-legend-of-zelda-breath-of-the-wild.html</guid>
-        
-        <category>nintendo</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Direcciones 'desechables' en GMail</title>
-        <description>&lt;p&gt;Hace unos días mi amigo &lt;a href=&quot;http://twitter.com/mx_psi&quot;&gt;@mx_psi&lt;/a&gt; me comentó un pequeño truco bastante útil para tu dirección de correo de GMail. Resulta que al usar tu dirección, puedes introducir tantos puntos &lt;code class=&quot;highlighter-rouge&quot;&gt;.&lt;/code&gt; como quieras en ella sin que esto afecte a la recepción de emails. De esta forma, suponiendo que &lt;code class=&quot;highlighter-rouge&quot;&gt;micorreo@gmail.com&lt;/code&gt; sea tu dirección, los correos que se envíen a &lt;code class=&quot;highlighter-rouge&quot;&gt;mi.correo@gmail.com&lt;/code&gt; o &lt;code class=&quot;highlighter-rouge&quot;&gt;mi.cor.reo@gmail.com&lt;/code&gt; te seguirán llegando sin ningún problema. Esto puede ser de gran utilidad por ejemplo cuando quieres crear otra cuenta en algún servicio web que solo te permite usar tu dirección una sola vez, como por ejemplo Twitter.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Linkblogs with Jekyll</title>
+   
+     <link href="http://mikebuss.com/2015/01/27/linklogs-with-jekyll/"/>
+   
+   <updated>2016-12-05T18:10:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/05/linkblogs-with-jekyll</id>
+   <content type="html">&lt;p&gt;Me he basado en este artículo para configurar los posts tipo &lt;em&gt;linkblog&lt;/em&gt; (como este mismo). El enlace del título es la dirección a la que hace referencia el post. He hecho alguna modificación como por ejemplo que al lado del título haya un ⁕ que sirve para acceder al enlace permanente del post en el blog.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>$8 Pasta Vs. $100 Pasta</title>
+   
+     <link href="https://www.youtube.com/watch?v=NHiqsrYkcuk"/>
+   
+   <updated>2016-12-05T14:31:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/05/8-dollars-pasta-vs-100-dollars-pasta</id>
+   <content type="html">&lt;p&gt;Aunque me gustaría probar la pasta de 100$ estoy seguro de que me quedo con la de menos de 20$. He de decir que la del primer restaurante tiene una pinta exquisita.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Legend of Zelda: Breath of the Wild - Vida en las ruinas</title>
+   
+     <link href="https://www.youtube.com/watch?v=-lbn5Fs_92Y"/>
+   
+   <updated>2016-12-04T16:44:00+01:00</updated>
+   <id>http://josemaria.ml/2016/12/04/the-legend-of-zelda-breath-of-the-wild</id>
+   <content type="html">&lt;p&gt;Tiene una pinta increíble y tengo muchas ganas de jugarlo. No sé si en Switch (porque no sé si la compraré de salida) o en la Wii U, que está cogiendo polvo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Direcciones 'desechables' en GMail</title>
+   
+     <link href="http://josemaria.ml/2016/07/20/direcciones-desechables-gmail.html"/>
+   
+   <updated>2016-07-20T22:38:24+02:00</updated>
+   <id>http://josemaria.ml/2016/07/20/direcciones-desechables-gmail</id>
+   <content type="html">&lt;p&gt;Hace unos días mi amigo &lt;a href=&quot;http://twitter.com/mx_psi&quot;&gt;@mx_psi&lt;/a&gt; me comentó un pequeño truco bastante útil para tu dirección de correo de GMail. Resulta que al usar tu dirección, puedes introducir tantos puntos &lt;code class=&quot;highlighter-rouge&quot;&gt;.&lt;/code&gt; como quieras en ella sin que esto afecte a la recepción de emails. De esta forma, suponiendo que &lt;code class=&quot;highlighter-rouge&quot;&gt;micorreo@gmail.com&lt;/code&gt; sea tu dirección, los correos que se envíen a &lt;code class=&quot;highlighter-rouge&quot;&gt;mi.correo@gmail.com&lt;/code&gt; o &lt;code class=&quot;highlighter-rouge&quot;&gt;mi.cor.reo@gmail.com&lt;/code&gt; te seguirán llegando sin ningún problema. Esto puede ser de gran utilidad por ejemplo cuando quieres crear otra cuenta en algún servicio web que solo te permite usar tu dirección una sola vez, como por ejemplo Twitter.&lt;/p&gt;
 
 &lt;p&gt;Leyendo en Internet, aprendí que también puedes añadir un &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt; al final de tu dirección y a continuación añadir lo que quieras. Por ejemplo, puedes crear &lt;code class=&quot;highlighter-rouge&quot;&gt;micorreo+spotify@gmail.com&lt;/code&gt; para tu cuenta de Spotify. El efecto es similar a lo anterior: todo lo enviado a estas direcciones aparecerá en tu bandeja de entrada. Así, puedes crear un filtro que se encargue de manejar el correo enviado a esa dirección.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Jul 2016 22:38:24 +0200</pubDate>
-        
-          <link href="http://yourdomain.com/2016/07/20/direcciones-desechables-gmail.html"/>
-        
-        <guid isPermaLink="true">http://yourdomain.com/2016/07/20/direcciones-desechables-gmail.html</guid>
-        
-        
-      </item>
-    
-  </channel>
-</rss>
+</content>
+ </entry>
+ 
+
+</feed>
