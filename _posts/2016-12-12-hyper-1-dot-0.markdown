@@ -1,0 +1,7 @@
+---
+title: Hyper 1.0
+date: 2016-12-12 21:03:00 +01:00
+external-url: https://github.com/zeit/hyper/releases/tag/1.0.0
+---
+
+Una terminal basada en Electron con muchas opciones de personalización que por fin acepta caracteres con tildes.
