@@ -1,5 +1,5 @@
 ---
-title: To build a better ballot - an interactive guide to alternative voting systems.
+title: To build a better ballot - an interactive guide to alternative voting systems
 date: 2016-12-17 14:24:00 +01:00
 external-url: http://ncase.me/ballot/
 ---
