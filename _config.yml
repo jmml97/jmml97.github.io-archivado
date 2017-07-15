@@ -6,6 +6,9 @@ collections:
     title: Posts
     output: true
     layout: post
+  posts_ugr:
+    title: Posts UGR
+    output: true
   uploads:
     title: Uploads
     output: true
