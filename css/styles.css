@@ -59,7 +59,9 @@
 	text-decoration: none !important;
 }
 
-.post-title a {
+
+
+.post-title, .post-title a {
 	font-family: 'Libre Franklin' !important;
 	font-size: 24px !important;
 	font-weight: normal !important;
@@ -76,7 +78,7 @@
 	color: #615b5b !important;
 }
 
-blockquote p {
+blockquote p, blockquote li {
 	color: #ada8a8 !important;
 	letter-spacing: 0 !important;
 	font-size: 14px !important;
