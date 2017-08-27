@@ -6,7 +6,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Blog.</h1>
+  <h1 class="page-heading">Blog</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -15,9 +15,7 @@ layout: default
 
         <h2>
           {% if post.external-url %}
-            <a class="post-link" href="{{ post.external-url }}">
-              {{ post.title }}
-            </a> <a class="permalink" href="{{ post.url | prepend: site.baseurl }}">⁕</a>
+            <a class="post-link" href="{{ post.external-url }}">{{ post.title }}</a><a class="permalink" href="{{ post.url | prepend: site.baseurl }}">♦</a>
           {% else %}
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
               {{ post.title }}

@@ -1,3 +1,12 @@
+html {
+    background-color: #FAFAFA;
+}
+
+body {
+    background-color: #FAFAFA !important;
+}
+
+
 .index-page-content {
 	padding: 5% !important;
 }
@@ -12,7 +21,7 @@
 }
 
 .site-title {
-	font-family: 'Libre Franklin' !important;
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
 	padding-top: 25px;
 	color: black !important;
 }
@@ -24,11 +33,10 @@
 .page-heading {
 	margin-bottom: 1em;
 	padding-bottom: .5em;
-	border-bottom: 1px solid #ebeaea;
 }
 
 .page-link {
-	font-family: 'Libre Baskerville' !important;
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
 }
 
 .post-list h2 {
@@ -44,66 +52,87 @@
 }
 
 .post-meta {
-	font-family: 'Libre Franklin' !important;
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
+    color: #616161 !important;
 }
 
 .post-link {
-	font-family: 'Libre Franklin' !important;
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
 	display: inline !important;
+    font-size: 28px !important;
 }
 
 .permalink {
 	font-size: .5em;
 	margin-left: 1em;
-	vertical-align: middle;
+	vertical-align: baseline;
 	text-decoration: none !important;
 }
 
-
-
 .post-title, .post-title a {
-	font-family: 'Libre Franklin' !important;
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
 	font-size: 24px !important;
 	font-weight: normal !important;
 	color: #121111 !important;
 }
 
 .post-title a:visited {
-	color: #121111 !important;
+	color: #424242 !important;
 }
 
 .post-content p {
 	margin-top: 1em !important;
 	margin-bottom: 1em !important;
-	color: #615b5b !important;
+	color: #212121 !important;
+    font-size: 17px;
+}
+
+.post-content a {
+    color: #0288D1;
+}
+
+.post-content a:hover {
+    color: #0288D1;
+}
+
+
+.post-content a:visited {
+    color: #01579B;
+
+}
+
+blockquote {
+
+    border-left: none !important;
+
 }
 
 blockquote p, blockquote li {
-	color: #ada8a8 !important;
+	color: #757575 !important;
 	letter-spacing: 0 !important;
-	font-size: 14px !important;
+	font-size: 17px !important;
 }
 
 p {
-	font-family: 'Libre Baskerville', sans-serif !important;
+	font-family: 'Georgia', 'Droid Serif', serif !important;
 	text-align: left;
 }
 
 li {
-	font-family: 'Libre Baskerville', sans-serif;
+	font-family: 'Georgia', 'Droid Serif', serif !important;
 }
 
 a {
-	font-family: 'Libre Baskerville', sans-serif;
-	color: black;
+	font-family: 'Georgia', 'Droid Serif', serif !important;
+	color: #03A9F4;
 }
 span {
-	font-family: 'Libre Franklin', sans-serif;
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
 }
 
 
 h1 {
-	font-family: 'Libre Franklin' !important;
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
 	font-weight: bold;
 	/*line-height: .8em !important;*/
 }
@@ -118,7 +147,7 @@ h1 {
 
 h2 {
 	font-size: 3.0rem;
-	font-family: 'Libre Franklin' !important;
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
 	line-height: .8em !important;
 }
 
@@ -130,7 +159,7 @@ h2 {
 }
 
 #subtitle {
-	font-family: 'Libre Baskerville';
+	font-family: 'Georgia', 'Droid Serif', serif !important;
 	font-size: 3.5rem;
 	text-align: left;
 	color: #615b5b;
@@ -218,7 +247,7 @@ h2 {
 }
 
 .site-title {
-	font-family: 'Libre Baskerville';
+	font-family: 'Helvetica', 'Roboto', sans-serif !important;
 	font-weight: bold !important;
 }
 
