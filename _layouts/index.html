@@ -1,44 +1,15 @@
 <!DOCTYPE html>
 <html>
 
-  <head>
-
-    <!-- Basic Page Needs
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>jmml</title>
-
-    <!-- FEED
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-
-    <!-- FONT
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville|Libre+Franklin:400,700,900" rel="stylesheet">
-
-    <!-- CSS
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/skeleton.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
-
-  </head>
-
+  {% include head.html %}
 
   <body>
 
-    <div class="index-page-content">
-      <div class="wrapper">
+    <div class="container">
         {{ content }}
-      </div>
     </div>
 
+    </div><!-- .container -->
 
   </body>
 

@@ -1,36 +1,51 @@
 ---
 title: Blog
-permalink: "/blog/"
 layout: default
 ---
 
-<div class="home">
+<h1 class="page-heading">Blog</h1>
 
-  <h1 class="page-heading">Blog</h1>
+{% for post in paginator.posts %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<div class="post">
+  <span class="post-meta">{% include meta-date.html %}</span>
 
-        <h2>
-          {% if post.external-url %}
-            <a class="post-link" href="{{ post.external-url }}">{{ post.title }}</a><a class="permalink" href="{{ post.url | prepend: site.baseurl }}">♦</a>
-          {% else %}
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              {{ post.title }}
-            </a>
-          {% endif %}
-        </h2>
+  <h2 class="post-title">
+    {% if post.external-url %}
+    <a class="post-link" href="{{ post.external-url }}">{{ post.title }}</a><a class="permalink" href="{{ post.url | prepend: site.baseurl }}">♦</a>
+    {% else %}
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+      {{ post.title }}
+    </a>
+    {% endif %}
+  </h2>
 
-        <div class="post-content" itemprop="articleBody">
-          {{ post.content }}
-        </div>
-
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <br>
+  <div class="post-content">
+    {{ post.content }}
+  </div>
 
 </div>
+{% endfor %}
+
+<div class="row pagination">
+  <div class="col-4">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous link">Previous</a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+  </div>
+  <div class="col-4 text-center">
+    <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+  </div>
+  <div class="col-4 text-right">
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next link">Next</a>
+    {% else %}
+      <span class="next">Next</span>
+    {% endif %}
+  </div>
+</div>
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="link">via RSS</a></p>

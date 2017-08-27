@@ -3,27 +3,24 @@ title: UGR
 permalink: "/ugr/"
 layout: default
 ---
+<h1 class="page-heading">Representación Estudiantil</h1>
 
-<div class="home">
+{% for post in site.posts_ugr %}
 
-  <h1 class="page-heading">Representación Estudiantil</h1>
+<div class="post">
+  <span class="post-meta">{% include meta-date.html %}</span>
 
-  <ul class="post-list">
-    {% for post in site.posts_ugr %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <h2 class="post-title">
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h2>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {% if post.excerpt %}
-        {{ post.excerpt }}
-        <a href="{{ post.url | prepend: site.baseurl }}">Seguir leyendo</a>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <br>
+  <div class="post-content">
+    {% if post.excerpt %}
+    {{ post.excerpt }}
+    <a href="{{ post.url | prepend: site.baseurl }}">Seguir leyendo</a>
+    {% endif %}
+  </div>
 
 </div>
+{% endfor %}
