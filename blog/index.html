@@ -12,7 +12,7 @@ layout: default
 
   <h2 class="post-title">
     {% if post.external-url %}
-    <a class="post-link" href="{{ post.external-url }}">{{ post.title }}</a><a class="permalink" href="{{ post.url | prepend: site.baseurl }}">♦</a>
+    <a class="post-link" href="{{ post.external-url }}">{{ post.title }}</a><a class="permalink" href="{{ post.url | prepend: site.baseurl }}">♦&#xFE0E;</a>
     {% else %}
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       {{ post.title }}
